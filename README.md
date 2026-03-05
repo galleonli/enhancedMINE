@@ -44,7 +44,7 @@ cd enhancedMINE
 Create and activate a virtual environment (optional but recommended), then install the required packages (e.g. `torch`, `numpy`, `matplotlib`, `tqdm`, `jupyter`):
 
 ```bash
-pip install -r requirements.txt  # if you maintain one
+pip install -r requirements.txt
 ```
 
 or manually install the dependencies used in the notebooks.
