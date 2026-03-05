@@ -2,3 +2,36 @@ MINE-Mutual-Information-Neural-Estimation--master
 out
 report大纲.rtf
 .DS_Store
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+eggs/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# IDE / editor
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
