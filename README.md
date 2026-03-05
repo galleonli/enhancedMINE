@@ -57,22 +57,6 @@ jupyter notebook
 
 Open any of the notebooks (e.g. `MINE_basic.ipynb`) to explore and run the experiments.
 
-### Poster preview
-
-Below are a few snapshots from the project poster. They provide a quick visual overview of the methods and experimental results:
-
-- **Overall poster layout**
-
-  ![Poster overview](poster/截屏2024-12-31%2013.55.00.png)
-
-- **Theoretical and experimental figures**
-
-  ![MI experiments](poster/figures/截屏2024-12-31%2012.12.17.png)
-
-- **GAN mode coverage results**
-
-  ![GAN results](poster/figures/截屏2024-12-31%2010.49.13.png)
-
 ### Notes on source material
 
 The first part of both the written report and the poster summarizes and excerpts key definitions, formulations, and experimental descriptions from the original MINE paper.  
