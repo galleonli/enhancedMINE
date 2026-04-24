@@ -1,17 +1,17 @@
-MINE-Mutual-Information-Neural-Estimation--master
-out
+# Project-specific local files
+MINE-Mutual-Information-Neural-Estimation--master/
+out/
 report大纲.rtf
-.DS_Store
 
-# Byte-compiled / optimized / DLL files
+# Python caches
 __pycache__/
 *.py[cod]
 *$py.class
 
-# C extensions
+# Native extensions
 *.so
 
-# Distribution / packaging
+# Packaging artifacts
 build/
 dist/
 eggs/
@@ -23,15 +23,24 @@ venv/
 env/
 ENV/
 
-# Jupyter Notebook checkpoints
+# Jupyter
 .ipynb_checkpoints/
+**/.ipynb_checkpoints/
 
-# Logs
+# Logs and caches
 *.log
+.pytest_cache/
+**/.pytest_cache/
 
-# IDE / editor
+# Editor settings
 .vscode/
+**/.vscode/
 .idea/
+**/.idea/
 
-# OS-specific
+# Operating system files
 .DS_Store
+**/.DS_Store
+
+# Nested Python caches
+**/__pycache__/
